@@ -6,20 +6,15 @@ namespace premiumTravel
     {
         private static void Main(string[] args)
         {
-           
-            Console.WriteLine("Avalible Agents:");
-            for (int opt = 0; opt < TravelAgents.getAgents().Count; opt++)
-            {
-                Console.WriteLine(TravelAgents.getAgents()[opt].name);
-            }
 
-            Console.WriteLine("");
 
-            Console.WriteLine("Which Agent Are You:");
-            string actAgent = Console.ReadLine();
+            var agent = new LoginAgents();
+            agent.LoginAgent();
 
             var tripStateLoop = new TripStateLoop();
             var trip = tripStateLoop.Execute();
+
+
 
             while (true)
             {

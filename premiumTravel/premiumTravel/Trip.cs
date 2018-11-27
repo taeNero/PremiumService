@@ -11,7 +11,7 @@ namespace premiumTravel
             TripStateStatus = TripState.Status.Create;
             Packs = new List<objPack>();
             pTravelers = new List<string>();
-          
+            Agent = new tAgent();
 
         }
 
@@ -24,6 +24,7 @@ namespace premiumTravel
 
         public long OrderId { get; set; }
         public DateTime BookedOn { get; set; }
+        public tAgent Agent { get; set; }
         public List<objPack> Packs { get; set; }
         public List<string> pTravelers { get; set; }
         public string benifactor { get; set; }

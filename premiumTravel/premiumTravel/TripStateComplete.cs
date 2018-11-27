@@ -13,6 +13,7 @@ namespace premiumTravel
 
         public override TripStateLoop.Status Execute()
         {
+            
             Console.WriteLine(Environment.NewLine + "***COMPLETE - ITINERARY AVAILABLE ***");
             Console.WriteLine();
 

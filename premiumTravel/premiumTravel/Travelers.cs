@@ -13,7 +13,7 @@ namespace premiumTravel
         {   //private constructor 
             pTravelers = new List<string>
             {
-                "Po Pickles", "Barack Obama", "Beyonce"
+                "Po Pickles", "Barack Obama", "Beyonce", "Lil Wayne", "Donald Trump", "That Other RichGuy", "Money Guy"
             };
         }
 

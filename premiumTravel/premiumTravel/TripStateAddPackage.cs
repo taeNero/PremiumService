@@ -17,10 +17,8 @@ namespace premiumTravel
 
         public override TripStateLoop.Status Execute()
         {
-            /*
-            Destinations openDestinations = new Destinations();
-            openDestinations.ShowDialog();                       
-            */
+            Console.WriteLine(Environment.NewLine + "*** Add Package ***");
+            Console.WriteLine("Package List");
 
             for (int opt = 0; opt < Packages.getPackList().Count; opt++)
             {
@@ -32,11 +30,13 @@ namespace premiumTravel
 
             }
             Console.WriteLine(
-                "- Select Package enter Pack Id");
+                "- Select Package enter Pack Id");           
             int index =Convert.ToInt32(Console.ReadLine());
             objPack newPack = Packages.getPackList()[index];
             TripContext.Trip.Packs.Add(newPack);
+            
 
+         
             TripContext.ChangeState(new TripStateChoosePersonPaying(TripContext));
             return TripStateLoop.Status.Continue;
 

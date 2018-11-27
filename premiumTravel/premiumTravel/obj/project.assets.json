@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\damonte\\source\\repos\\premiumTravel\\premiumTravel\\premiumTravel.csproj",
+      "projectUniqueName": "C:\\Users\\Damonte\\source\\repos\\premiumTravel\\premiumTravel\\premiumTravel.csproj",
       "projectName": "premiumTravel",
-      "projectPath": "c:\\users\\damonte\\source\\repos\\premiumTravel\\premiumTravel\\premiumTravel.csproj",
+      "projectPath": "C:\\Users\\Damonte\\source\\repos\\premiumTravel\\premiumTravel\\premiumTravel.csproj",
       "packagesPath": "C:\\Users\\Damonte\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\damonte\\source\\repos\\premiumTravel\\premiumTravel\\obj\\",
+      "outputPath": "C:\\Users\\Damonte\\source\\repos\\premiumTravel\\premiumTravel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

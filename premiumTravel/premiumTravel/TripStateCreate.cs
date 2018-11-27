@@ -13,7 +13,8 @@ namespace premiumTravel
             {
                 BookedOn = DateTime.Now,
                 OrderId = DateTime.Now.Ticks,
-                TripStateStatus = TripState.Status.Create
+                TripStateStatus = TripState.Status.Create,
+                 
             };
         }
 

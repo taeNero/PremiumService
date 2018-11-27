@@ -4,9 +4,8 @@ using System.Text;
 
 namespace premiumTravel
 {
-    public class tAgent
+    public class Places
     {
-        public string name { get; set; }
-        public List<Trip> agentTrip { get; set; }
+        
     }
 }

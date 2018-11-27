@@ -34,11 +34,7 @@ namespace premiumTravel
             return returnLater;
         }
 
-        /// <summary>
-        ///     states a trip can be in.
-        ///     create = first state
-        ///     complete = last state
-        /// </summary>
+       
         public enum Status
         {
             Create,
@@ -53,16 +49,6 @@ namespace premiumTravel
             Complete
         }
 
-        //Create, then
-        //AddDestinations, then
-        //ChoosePaymentType
-        //   if cash, then PayCash, then
-        //   if check, then PayCheck, then
-        //AddThankYou, then
-        //Complete
-        //
-        //Itinerary cannot be generated until TripStateStatus = Complete
-        //When state = Complete, the Trip object has been verified to be
-        //complete and all validation requirements fulfilled.
+       
     }
 }
