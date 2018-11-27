@@ -1,0 +1,11 @@
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\bin\Debug\netcoreapp2.0\premiumTravel.deps.json
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\bin\Debug\netcoreapp2.0\premiumTravel.runtimeconfig.json
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\bin\Debug\netcoreapp2.0\premiumTravel.runtimeconfig.dev.json
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\bin\Debug\netcoreapp2.0\premiumTravel.dll
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\bin\Debug\netcoreapp2.0\premiumTravel.pdb
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\obj\Debug\netcoreapp2.0\premiumTravel.csprojResolveAssemblyReference.cache
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\obj\Debug\netcoreapp2.0\premiumTravel.csproj.CoreCompileInputs.cache
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\obj\Debug\netcoreapp2.0\premiumTravel.AssemblyInfoInputs.cache
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\obj\Debug\netcoreapp2.0\premiumTravel.AssemblyInfo.cs
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\obj\Debug\netcoreapp2.0\premiumTravel.dll
+c:\users\damonte\source\repos\premiumTravel\premiumTravel\obj\Debug\netcoreapp2.0\premiumTravel.pdb
